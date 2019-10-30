@@ -1,2 +1,2 @@
 # Python-Tutorial
-Bunch of examples from the http://www.tutorialspoint.com/python/index.htm site.
+Bunch of examples from the https://www.w3schools.com/python/default.asp site.
